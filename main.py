@@ -36,7 +36,7 @@ turtle.circle(40)
 turtle.circle(80)
 turtle.circle(160)
 
-'''
+
 #日期和时间的输出
 from datetime import datetime
 now=datetime.now()
@@ -45,3 +45,5 @@ A=now.strftime("%x")
 B=now.strftime("%X")
 print(A)
 print(B)
+
+'''
